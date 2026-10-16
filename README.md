@@ -2,7 +2,7 @@
 
 The 500 most-asked Cardio Pulm 1 physiology points (exam Oct 19 2026), one question each, grouped by lecture, in the
 same format as the CP1 anatomy questions page: click an option to answer, a Why under every answer, Watch-out notes,
-a Slides dropdown with the slides and pictures that show each point, stars, and a "most asked" filter (asked 5× or more).
+a Slides dropdown with the slides and pictures that show each point and stars.
 
 Live page: https://yoelplutchok.github.io/cp1-physiology-top-500/
 
